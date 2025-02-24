@@ -51,8 +51,8 @@ export default function IndexPage() {
           </main>
           <footer className="bg-white p-4 shadow-sm w-full text-xs">
             <p className="text-center text-gray-600">
-              &copy; {new Date().getFullYear()} Your Company, all rights
-              reserved.
+              &copy; {new Date().getFullYear()} Yaninthe TechWizard Inc, all
+              rights reserved.
             </p>
             <p className="text-center text-gray-600 text-xs">
               AI answers should be verified before use.
